@@ -25,7 +25,7 @@ function pickComputerMove() {
   }
   return computermove;
 }
-
+// What does this function does 
 function playGame(playerMove) {
   if (
     playerMove !== "rock" &&
